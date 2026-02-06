@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5; /* Background color for the body */
+}
+
+.main-container {
+    padding: 20px;
+    background-color: #f5f5f5; /* Background color for the main container */
+    max-width: 800px;
+    margin: auto;
+}
+
+.testimonial {
+    padding: 15px;
+    border: 1px solid #ccc; /* Border for the testimonial box */
+    background-color: #fff; /* Background color for the testimonial box */
+    margin-bottom: 20px; /* Space between testimonials */
+    border-radius: 5px; /* Rounded corners */
+}
+
+.text {
+    font-size: 16px; /* Normal styling for testimonial text */
+}
+
+.author {
+    text-align: right; /* Align author's name to the right */
+    font-style: italic; /* Italic style for author's name */
+    margin-top: 10px; /* Space above the author's name */
+}
+    </style>
